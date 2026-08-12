@@ -23,5 +23,6 @@ class Receipt:
     total: Decimal | None = None
 
     cash: Decimal | None = None
+    change: Decimal | None = None
 
     
