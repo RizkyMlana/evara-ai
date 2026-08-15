@@ -1,0 +1,962 @@
+[
+    {
+        "text": "beli roti dan susu di supermarket",
+        "label": "food"
+    },
+    {
+        "text": "makan nasi goreng dan es teh",
+        "label": "food"
+    },
+    {
+        "text": "beli snack minuman dan mie instan",
+        "label": "food"
+    },
+    {
+        "text": "belanja buah sayur daging dan susu",
+        "label": "food"
+    },
+    {
+        "text": "pesan ayam geprek untuk makan malam",
+        "label": "food"
+    },
+    {
+        "text": "beli kopi dan roti untuk sarapan",
+        "label": "food"
+    },
+    {
+        "text": "makan siang di restoran",
+        "label": "food"
+    },
+    {
+        "text": "beli yogurt keju dan telur",
+        "label": "food"
+    },
+    {
+        "text": "pesan pizza dan minuman",
+        "label": "food"
+    },
+    {
+        "text": "beli makanan ringan untuk di rumah",
+        "label": "food"
+    },
+    {
+        "text": "INDOMARET ROTI KRIM KEJU CIMORY MIX BERRY",
+        "label": "food"
+    },
+    {
+        "text": "ALFAMART SUSU ULTRA MILK INDOMIE CHITATO",
+        "label": "food"
+    },
+    {
+        "text": "WARUNG NASI GORENG ES TEH MANIS",
+        "label": "food"
+    },
+    {
+        "text": "KFC CHICKEN RICE COLA",
+        "label": "food"
+    },
+    {
+        "text": "MCDONALDS BURGER FRIES SOFT DRINK",
+        "label": "food"
+    },
+    {
+        "text": "ROTI COKLAT SUSU UHT YOGURT",
+        "label": "food"
+    },
+    {
+        "text": "BAKSO MIE AYAM ES JERUK",
+        "label": "food"
+    },
+    {
+        "text": "CAFE LATTE CROISSANT MINERAL WATER",
+        "label": "food"
+    },
+    {
+        "text": "TELUR DAGING SAYUR BUAH SUPERMARKET",
+        "label": "food"
+    },
+    {
+        "text": "MIE INSTAN SNACK BISKUIT MINUMAN",
+        "label": "food"
+    },
+    {
+        "text": "IND0MARET R0TI KR1M KEJU C1M0RY",
+        "label": "food"
+    },
+    {
+        "text": "ALFAMART SUSU ULTRA M1LK 1ND0M1E",
+        "label": "food"
+    },
+    {
+        "text": "R0TI C0KLAT S USU Y0GURT",
+        "label": "food"
+    },
+    {
+        "text": "NAS1 G0RENG AYAM ES TEH",
+        "label": "food"
+    },
+    {
+        "text": "M1E INSTAN SNACK B1SKU1T",
+        "label": "food"
+    },
+    {
+        "text": "SUSU KEJU TELUR DAG1NG",
+        "label": "food"
+    },
+    {
+        "text": "K0P1 LATTE CR0ISSANT",
+        "label": "food"
+    },
+    {
+        "text": "P1ZZA CH1CKEN COLA",
+        "label": "food"
+    },
+    {
+        "text": "FRISIAN FLAG SUSU 900ML ROTI TAWAR",
+        "label": "food"
+    },
+    {
+        "text": "CIMORY MIX BERRY 225ML 8500",
+        "label": "food"
+    },
+    {
+        "text": "isi bensin motor",
+        "label": "transportation"
+    },
+    {
+        "text": "isi pertamax mobil",
+        "label": "transportation"
+    },
+    {
+        "text": "bayar perjalanan menggunakan gojek",
+        "label": "transportation"
+    },
+    {
+        "text": "naik kereta ke kampus",
+        "label": "transportation"
+    },
+    {
+        "text": "bayar parkir dan tol",
+        "label": "transportation"
+    },
+    {
+        "text": "pesan grab untuk pergi ke kantor",
+        "label": "transportation"
+    },
+    {
+        "text": "beli tiket bus antar kota",
+        "label": "transportation"
+    },
+    {
+        "text": "bayar parkir mall",
+        "label": "transportation"
+    },
+    {
+        "text": "isi pertalite motor",
+        "label": "transportation"
+    },
+    {
+        "text": "bayar tiket kereta",
+        "label": "transportation"
+    },
+    {
+        "text": "PERTAMINA PERTAMAX 35 LITER",
+        "label": "transportation"
+    },
+    {
+        "text": "SPBU PERTALITE 10 LITER",
+        "label": "transportation"
+    },
+    {
+        "text": "GOJEK RIDE JATINANGOR BANDUNG",
+        "label": "transportation"
+    },
+    {
+        "text": "GRAB CAR TRIP 25.000",
+        "label": "transportation"
+    },
+    {
+        "text": "TIKET KERETA API BANDUNG JAKARTA",
+        "label": "transportation"
+    },
+    {
+        "text": "PARKIR MALL 4 JAM",
+        "label": "transportation"
+    },
+    {
+        "text": "TOL PADALARANG 10.500",
+        "label": "transportation"
+    },
+    {
+        "text": "TIKET BUS ANTAR KOTA",
+        "label": "transportation"
+    },
+    {
+        "text": "PERTAMAX TURBO 20 LITER",
+        "label": "transportation"
+    },
+    {
+        "text": "BENSIN MOTOR PERTALITE",
+        "label": "transportation"
+    },
+    {
+        "text": "P3RTAM1NA P3RTAMAX 30 L1TER",
+        "label": "transportation"
+    },
+    {
+        "text": "SPBU PERTAL1TE MOTOR",
+        "label": "transportation"
+    },
+    {
+        "text": "G0JEK R1DE 18.000",
+        "label": "transportation"
+    },
+    {
+        "text": "GRABCAR 27.500",
+        "label": "transportation"
+    },
+    {
+        "text": "T1KET KERETA API",
+        "label": "transportation"
+    },
+    {
+        "text": "PARK1R GEDUNG 5.000",
+        "label": "transportation"
+    },
+    {
+        "text": "T0L 12.500",
+        "label": "transportation"
+    },
+    {
+        "text": "BUS DAMRI T1KET",
+        "label": "transportation"
+    },
+    {
+        "text": "PARKIR DAN TOL",
+        "label": "transportation"
+    },
+    {
+        "text": "ISI BENS1N MOB1L",
+        "label": "transportation"
+    },
+    {
+        "text": "beli baju dan celana",
+        "label": "shopping"
+    },
+    {
+        "text": "beli sepatu baru",
+        "label": "shopping"
+    },
+    {
+        "text": "beli mouse dan keyboard",
+        "label": "shopping"
+    },
+    {
+        "text": "beli peralatan rumah tangga",
+        "label": "shopping"
+    },
+    {
+        "text": "beli tas untuk kuliah",
+        "label": "shopping"
+    },
+    {
+        "text": "beli jaket baru",
+        "label": "shopping"
+    },
+    {
+        "text": "beli sandal dan kaos",
+        "label": "shopping"
+    },
+    {
+        "text": "beli charger dan kabel data",
+        "label": "shopping"
+    },
+    {
+        "text": "beli headphone",
+        "label": "shopping"
+    },
+    {
+        "text": "beli perlengkapan kamar",
+        "label": "shopping"
+    },
+    {
+        "text": "TOKO SEPATU SNEAKERS RUNNING SHOES",
+        "label": "shopping"
+    },
+    {
+        "text": "UNIQLO TSHIRT JACKET PANTS",
+        "label": "shopping"
+    },
+    {
+        "text": "H&M SHIRT JEANS JACKET",
+        "label": "shopping"
+    },
+    {
+        "text": "TOKO ELEKTRONIK MOUSE KEYBOARD USB HUB",
+        "label": "shopping"
+    },
+    {
+        "text": "MINISO TAS BOTOL MINUM AKSESORIS",
+        "label": "shopping"
+    },
+    {
+        "text": "IKEA RAK MEJA LAMPU KAMAR",
+        "label": "shopping"
+    },
+    {
+        "text": "TOKO BAJU KAOS CELANA JAKET",
+        "label": "shopping"
+    },
+    {
+        "text": "TOKO GADGET CHARGER CABLE HEADSET",
+        "label": "shopping"
+    },
+    {
+        "text": "BELI DOMPET DAN TAS",
+        "label": "shopping"
+    },
+    {
+        "text": "BELI PERABOT RUMAH TANGGA",
+        "label": "shopping"
+    },
+    {
+        "text": "TOK0 S3PATU RUNNING SH0ES",
+        "label": "shopping"
+    },
+    {
+        "text": "UN1QL0 TSH1RT JEANS",
+        "label": "shopping"
+    },
+    {
+        "text": "M0USE KEYB0ARD USB HUB",
+        "label": "shopping"
+    },
+    {
+        "text": "CHARG3R KABEL DATA HEADPH0NE",
+        "label": "shopping"
+    },
+    {
+        "text": "TAS JAKET KA0S",
+        "label": "shopping"
+    },
+    {
+        "text": "RAK MEJA LAMPU",
+        "label": "shopping"
+    },
+    {
+        "text": "D0MPET TAS AKSESORIS",
+        "label": "shopping"
+    },
+    {
+        "text": "SANDAL CELANA BAJU",
+        "label": "shopping"
+    },
+    {
+        "text": "PERALATAN RUMAH TANGGA",
+        "label": "shopping"
+    },
+    {
+        "text": "beli sandal dan sepatu olahraga",
+        "label": "shopping"
+    },
+    {
+        "text": "bayar tagihan listrik",
+        "label": "bills"
+    },
+    {
+        "text": "bayar tagihan internet",
+        "label": "bills"
+    },
+    {
+        "text": "beli paket data internet",
+        "label": "bills"
+    },
+    {
+        "text": "bayar tagihan air",
+        "label": "bills"
+    },
+    {
+        "text": "bayar wifi bulanan",
+        "label": "bills"
+    },
+    {
+        "text": "bayar pulsa telepon",
+        "label": "bills"
+    },
+    {
+        "text": "bayar listrik PLN",
+        "label": "bills"
+    },
+    {
+        "text": "bayar PDAM bulan ini",
+        "label": "bills"
+    },
+    {
+        "text": "bayar tagihan telepon",
+        "label": "bills"
+    },
+    {
+        "text": "bayar iuran internet rumah",
+        "label": "bills"
+    },
+    {
+        "text": "PLN TAGIHAN LISTRIK BULANAN",
+        "label": "bills"
+    },
+    {
+        "text": "PDAM TAGIHAN AIR",
+        "label": "bills"
+    },
+    {
+        "text": "INDIHOME INTERNET 1 BULAN",
+        "label": "bills"
+    },
+    {
+        "text": "TELKOMSEL PAKET DATA 30GB",
+        "label": "bills"
+    },
+    {
+        "text": "XL PULSA DAN DATA INTERNET",
+        "label": "bills"
+    },
+    {
+        "text": "WIFI BULANAN INTERNET HOME",
+        "label": "bills"
+    },
+    {
+        "text": "PLN TOKEN LISTRIK 100.000",
+        "label": "bills"
+    },
+    {
+        "text": "PDAM AIR RUMAH",
+        "label": "bills"
+    },
+    {
+        "text": "TAGIHAN INTERNET BULAN AGUSTUS",
+        "label": "bills"
+    },
+    {
+        "text": "PULSA TELEPON 50.000",
+        "label": "bills"
+    },
+    {
+        "text": "PLN TAG1HAN L1STR1K",
+        "label": "bills"
+    },
+    {
+        "text": "PDAM TAG1HAN A1R",
+        "label": "bills"
+    },
+    {
+        "text": "1NDIH0ME 1NTERNET",
+        "label": "bills"
+    },
+    {
+        "text": "TELK0MSEL PAKET DATA 30GB",
+        "label": "bills"
+    },
+    {
+        "text": "W1F1 BULANAN",
+        "label": "bills"
+    },
+    {
+        "text": "PLN T0KEN L1STR1K",
+        "label": "bills"
+    },
+    {
+        "text": "PULSA DATA INTERNET",
+        "label": "bills"
+    },
+    {
+        "text": "TAG1HAN TELP0N",
+        "label": "bills"
+    },
+    {
+        "text": "TAGIHAN INTERNET RUMAH",
+        "label": "bills"
+    },
+    {
+        "text": "BAYAR LISTRIK AIR INTERNET",
+        "label": "bills"
+    },
+    {
+        "text": "beli obat di apotek",
+        "label": "health"
+    },
+    {
+        "text": "bayar dokter",
+        "label": "health"
+    },
+    {
+        "text": "beli vitamin",
+        "label": "health"
+    },
+    {
+        "text": "bayar rumah sakit",
+        "label": "health"
+    },
+    {
+        "text": "beli obat flu dan batuk",
+        "label": "health"
+    },
+    {
+        "text": "konsultasi dokter umum",
+        "label": "health"
+    },
+    {
+        "text": "beli masker dan obat",
+        "label": "health"
+    },
+    {
+        "text": "bayar pemeriksaan kesehatan",
+        "label": "health"
+    },
+    {
+        "text": "beli suplemen kesehatan",
+        "label": "health"
+    },
+    {
+        "text": "beli obat sakit kepala",
+        "label": "health"
+    },
+    {
+        "text": "APOTEK OBAT BATUK PARACETAMOL",
+        "label": "health"
+    },
+    {
+        "text": "KLINIK PEMERIKSAAN DOKTER UMUM",
+        "label": "health"
+    },
+    {
+        "text": "RUMAH SAKIT BIAYA KONSULTASI",
+        "label": "health"
+    },
+    {
+        "text": "APOTEK VITAMIN SUPLEMEN",
+        "label": "health"
+    },
+    {
+        "text": "APOTEK OBAT FLU DAN DEMAM",
+        "label": "health"
+    },
+    {
+        "text": "DOKTER KONSULTASI KESEHATAN",
+        "label": "health"
+    },
+    {
+        "text": "LABORATORIUM CEK DARAH",
+        "label": "health"
+    },
+    {
+        "text": "APOTEK MASKER DAN OBAT",
+        "label": "health"
+    },
+    {
+        "text": "KLINIK MEDICAL CHECK UP",
+        "label": "health"
+    },
+    {
+        "text": "VITAMIN C ZINC SUPLEMEN",
+        "label": "health"
+    },
+    {
+        "text": "AP0TEK PARACETAM0L 500MG",
+        "label": "health"
+    },
+    {
+        "text": "KL1N1K D0KTER UMUM",
+        "label": "health"
+    },
+    {
+        "text": "RUMAH SAK1T K0NSULTASI",
+        "label": "health"
+    },
+    {
+        "text": "V1TAM1N SUPLEMEN KESEHATAN",
+        "label": "health"
+    },
+    {
+        "text": "OBAT FLU BATUK DEMAM",
+        "label": "health"
+    },
+    {
+        "text": "LAB CEK DARAH",
+        "label": "health"
+    },
+    {
+        "text": "MED1CAL CHECK UP",
+        "label": "health"
+    },
+    {
+        "text": "MASKER OBAT APOTEK",
+        "label": "health"
+    },
+    {
+        "text": "BIAYA DOKTER DAN OBAT",
+        "label": "health"
+    },
+    {
+        "text": "beli vitamin dan obat di apotek",
+        "label": "health"
+    },
+    {
+        "text": "beli tiket bioskop",
+        "label": "entertainment"
+    },
+    {
+        "text": "bayar langganan netflix",
+        "label": "entertainment"
+    },
+    {
+        "text": "beli game",
+        "label": "entertainment"
+    },
+    {
+        "text": "beli tiket konser",
+        "label": "entertainment"
+    },
+    {
+        "text": "langganan spotify",
+        "label": "entertainment"
+    },
+    {
+        "text": "nonton film di bioskop",
+        "label": "entertainment"
+    },
+    {
+        "text": "beli tiket festival musik",
+        "label": "entertainment"
+    },
+    {
+        "text": "beli item game online",
+        "label": "entertainment"
+    },
+    {
+        "text": "langganan layanan streaming",
+        "label": "entertainment"
+    },
+    {
+        "text": "bayar karaoke",
+        "label": "entertainment"
+    },
+    {
+        "text": "CGV TIKET BIOSKOP 2 ORANG",
+        "label": "entertainment"
+    },
+    {
+        "text": "NETFLIX PREMIUM MONTHLY",
+        "label": "entertainment"
+    },
+    {
+        "text": "SPOTIFY PREMIUM 1 MONTH",
+        "label": "entertainment"
+    },
+    {
+        "text": "STEAM GAME PURCHASE",
+        "label": "entertainment"
+    },
+    {
+        "text": "TIKET KONSER MUSIK",
+        "label": "entertainment"
+    },
+    {
+        "text": "KARAOKE ROOM 2 HOURS",
+        "label": "entertainment"
+    },
+    {
+        "text": "DISNEY PLUS SUBSCRIPTION",
+        "label": "entertainment"
+    },
+    {
+        "text": "TIKET FESTIVAL MUSIK",
+        "label": "entertainment"
+    },
+    {
+        "text": "BIOSKOP FILM TIKET",
+        "label": "entertainment"
+    },
+    {
+        "text": "GAME DIGITAL PURCHASE",
+        "label": "entertainment"
+    },
+    {
+        "text": "CGV T1KET B1OSK0P",
+        "label": "entertainment"
+    },
+    {
+        "text": "NETFL1X PREMIUM",
+        "label": "entertainment"
+    },
+    {
+        "text": "SP0T1FY PREMIUM",
+        "label": "entertainment"
+    },
+    {
+        "text": "STEAM GAME PURCHASE",
+        "label": "entertainment"
+    },
+    {
+        "text": "T1KET K0NSER MUS1K",
+        "label": "entertainment"
+    },
+    {
+        "text": "KARA0KE ROOM",
+        "label": "entertainment"
+    },
+    {
+        "text": "D1SNEY PLUS SUBSCR1PT10N",
+        "label": "entertainment"
+    },
+    {
+        "text": "FEST1VAL MUS1K T1KET",
+        "label": "entertainment"
+    },
+    {
+        "text": "BI0SK0P F1LM T1KET",
+        "label": "entertainment"
+    },
+    {
+        "text": "LANGGANAN STREAMING",
+        "label": "entertainment"
+    },
+    {
+        "text": "beli buku kuliah",
+        "label": "education"
+    },
+    {
+        "text": "bayar uang kuliah",
+        "label": "education"
+    },
+    {
+        "text": "beli alat tulis sekolah",
+        "label": "education"
+    },
+    {
+        "text": "bayar kursus online",
+        "label": "education"
+    },
+    {
+        "text": "beli buku pemrograman",
+        "label": "education"
+    },
+    {
+        "text": "bayar biaya semester",
+        "label": "education"
+    },
+    {
+        "text": "beli notebook dan pulpen",
+        "label": "education"
+    },
+    {
+        "text": "langganan platform belajar",
+        "label": "education"
+    },
+    {
+        "text": "bayar kelas online",
+        "label": "education"
+    },
+    {
+        "text": "beli kalkulator untuk kuliah",
+        "label": "education"
+    },
+    {
+        "text": "TOKO BUKU BUKU PEMROGRAMAN NOTEBOOK",
+        "label": "education"
+    },
+    {
+        "text": "KAMPUS PEMBAYARAN UANG KULIAH",
+        "label": "education"
+    },
+    {
+        "text": "GRAMEDIA BUKU ALAT TULIS",
+        "label": "education"
+    },
+    {
+        "text": "KURSUS ONLINE PEMROGRAMAN",
+        "label": "education"
+    },
+    {
+        "text": "PLATFORM BELAJAR PREMIUM",
+        "label": "education"
+    },
+    {
+        "text": "BUKU ALGORITMA DAN PEMROGRAMAN",
+        "label": "education"
+    },
+    {
+        "text": "SPP KULIAH SEMESTER GANJIL",
+        "label": "education"
+    },
+    {
+        "text": "ALAT TULIS PULPEN NOTEBOOK",
+        "label": "education"
+    },
+    {
+        "text": "KELAS ONLINE MACHINE LEARNING",
+        "label": "education"
+    },
+    {
+        "text": "KALKULATOR BUKU KULIAH",
+        "label": "education"
+    },
+    {
+        "text": "TOK0 BUKU PEMR0GRAMAN",
+        "label": "education"
+    },
+    {
+        "text": "KAMPUS PEMBAYARAN UANG KUL1AH",
+        "label": "education"
+    },
+    {
+        "text": "GRAMED1A BUKU ALAT TUL1S",
+        "label": "education"
+    },
+    {
+        "text": "KURSUS 0NLINE PEMR0GRAMAN",
+        "label": "education"
+    },
+    {
+        "text": "PLATF0RM BELAJAR PREMIUM",
+        "label": "education"
+    },
+    {
+        "text": "BUKU ALGOR1TMA PEMR0GRAMAN",
+        "label": "education"
+    },
+    {
+        "text": "SPP KUL1AH SEMESTER",
+        "label": "education"
+    },
+    {
+        "text": "PULPEN N0TEB00K ALAT TUL1S",
+        "label": "education"
+    },
+    {
+        "text": "MACHINE LEARN1NG ONLINE CLASS",
+        "label": "education"
+    },
+    {
+        "text": "BUKU KULIAH KALKULATOR",
+        "label": "education"
+    },
+    {
+        "text": "biaya administrasi lainnya",
+        "label": "other"
+    },
+    {
+        "text": "pengeluaran pribadi lainnya",
+        "label": "other"
+    },
+    {
+        "text": "biaya miscellaneous",
+        "label": "other"
+    },
+    {
+        "text": "pengeluaran yang tidak diketahui kategorinya",
+        "label": "other"
+    },
+    {
+        "text": "biaya administrasi bank",
+        "label": "other"
+    },
+    {
+        "text": "biaya layanan lainnya",
+        "label": "other"
+    },
+    {
+        "text": "pengeluaran umum",
+        "label": "other"
+    },
+    {
+        "text": "biaya tidak terklasifikasi",
+        "label": "other"
+    },
+    {
+        "text": "pengeluaran pribadi",
+        "label": "other"
+    },
+    {
+        "text": "biaya tambahan lainnya",
+        "label": "other"
+    },
+    {
+        "text": "ADMIN FEE TRANSACTION CHARGE",
+        "label": "other"
+    },
+    {
+        "text": "BANK ADMINISTRATION FEE",
+        "label": "other"
+    },
+    {
+        "text": "SERVICE CHARGE OTHER FEE",
+        "label": "other"
+    },
+    {
+        "text": "MISCELLANEOUS EXPENSE",
+        "label": "other"
+    },
+    {
+        "text": "OTHER EXPENSE 25.000",
+        "label": "other"
+    },
+    {
+        "text": "BIAYA ADMINISTRASI",
+        "label": "other"
+    },
+    {
+        "text": "BIAYA LAYANAN",
+        "label": "other"
+    },
+    {
+        "text": "PENGELUARAN LAINNYA",
+        "label": "other"
+    },
+    {
+        "text": "TRANSAKSI TIDAK DIKETAHUI",
+        "label": "other"
+    },
+    {
+        "text": "BIAYA UMUM LAINNYA",
+        "label": "other"
+    },
+    {
+        "text": "ADM1N FEE TRANSACT10N",
+        "label": "other"
+    },
+    {
+        "text": "BANK ADM1N1STRAT10N FEE",
+        "label": "other"
+    },
+    {
+        "text": "SERV1CE CHARGE OTHER FEE",
+        "label": "other"
+    },
+    {
+        "text": "M1SCELLANEOUS EXPENSE",
+        "label": "other"
+    },
+    {
+        "text": "0THER EXPENSE 25.000",
+        "label": "other"
+    },
+    {
+        "text": "B1AYA ADMINISTRASI",
+        "label": "other"
+    },
+    {
+        "text": "B1AYA LAYANAN",
+        "label": "other"
+    },
+    {
+        "text": "PENGELUARAN LA1NNYA",
+        "label": "other"
+    },
+    {
+        "text": "TRANSAKS1 TIDAK DIKETAHUI",
+        "label": "other"
+    },
+    {
+        "text": "BIAYA UMUM LAINNYA",
+        "label": "other"
+    }
+]
